@@ -468,3 +468,11 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.image-with-caption {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  text-align: center; }
+  .image-with-caption img {
+    margin: 0 auto 16px auto;
+    display: block; }

@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.image-with-caption {
+  img {
+    margin: 0 auto 16px auto;
+    display: block;
+  }
+
+  margin-top: 32px;
+  margin-bottom: 32px;
+  text-align: center;
+}
